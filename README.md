@@ -1,5 +1,5 @@
-<h1 align="center">I'm Sergy</h1>
-<h3 align="center">I create apps depending on my mood</h3>
+<h1>I'm Sergy</h1>
+<h3>I create apps depending on my mood</h3>
 
 - 🔭 I’m currently working on **some random iOS tweak**
 
