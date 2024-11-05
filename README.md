@@ -7,13 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [sergealagon.github.io](sergealagon.github.io)
 
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **@srgndrlgn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sergealagon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergealagon" height="30" width="40" /></a>
+<a href="https://twitter.com/srgndrlgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergealagon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
