@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.JS, Objective-C**
 
-- 👨‍💻 All of my projects are available at [sergealagon.github.io](sergealagon.github.io)
+- 👨‍💻 All of my projects are available at [sergealagon.github.io](sergealagon.github.io) (updating in progress)
 
 - 📫 How to reach me **@srgndrlgn**
 
