@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **some random iOS tweak**
 
-- 🌱 I’m currently learning **Next.JS, Objective-C**
+- 🌱 I’m currently learning **Next.JS, Objective-C, Swift**
 
-- 👨‍💻 All of my projects are available at [sergealagon.github.io](sergealagon.github.io) (updating in progress)
+- 👨‍💻 Portfolio: [sergy.org](https://sergy.org)
 
 - 📫 How to reach me **@srgndrlgn**
 
