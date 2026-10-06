@@ -1,7 +1,7 @@
 <h1>I'm Sergy</h1>
 <h3>I create stuff</h3>
 
-- 🔭 I’m currently working on **some random iOS tweak, or maybe not**
+- 🔭 I’m currently working on **some random stupid project, or maybe not**
 
 - 🌱 I work mostly with C, Objective C, C++, C#, Swift, and JavaScript.
 - Sometimes I like to play with Rust and Go
