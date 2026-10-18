@@ -1,5 +1,5 @@
 <h1>I'm Sergy</h1>
-<h3>I create stuff</h3>
+<h3>I'm 25, and I create stuff</h3>
 
 - 🔭 I’m currently working on **some random stupid project, or maybe not**
 
