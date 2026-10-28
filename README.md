@@ -7,7 +7,5 @@
 - Sometimes I like to play with Rust and Go
 - I do love working with electronics as a hobby too
 
-- [sergy.org](https://sergy.org)
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sergy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sergy" /></a></p><br><br>
